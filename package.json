@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-core-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hossenra/NodeJs-Core-Modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hossenra/NodeJs-Core-Modules/issues"
+  },
+  "homepage": "https://github.com/hossenra/NodeJs-Core-Modules#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
